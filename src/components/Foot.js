@@ -1,5 +1,6 @@
-import React from "react";
+import React, {useState} from "react";
 const Foot = () => {
+
     return(
         <div id="foot">
             <div className="container">
